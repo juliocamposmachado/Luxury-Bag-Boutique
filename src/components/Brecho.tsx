@@ -28,7 +28,7 @@ const fashionImages = [
     category: 'Tendência'
   },
   {
-    url: 'https://images.pexels.com/photos/1690290/pexels-photo-1690290.jpeg?auto=compress&cs=tinysrgb&w=600',
+    url: 'https://femmeverso.com.br/wp-content/uploads/2023/05/Imagens-criando-estilo-pessoal-unico.webp?auto=compress&cs=tinysrgb&w=600',
     alt: 'Estilo pessoal único',
     category: 'Estilo'
   }
