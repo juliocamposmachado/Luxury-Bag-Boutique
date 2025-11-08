@@ -8,7 +8,7 @@ const fashionImages = [
     category: 'Clássico'
   },
   {
-    url: 'https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=600',
+    url: 'https://i.pinimg.com/736x/ba/88/64/ba88648aae0d3dbf84ca4bd83c31d793.jpg?auto=compress&cs=tinysrgb&w=600',
     alt: 'Figurino retrô anos 70',
     category: 'Retrô'
   },
