@@ -13,7 +13,7 @@ const fashionImages = [
     category: 'Retrô'
   },
   {
-    url: 'https://images.pexels.com/photos/2115286/pexels-photo-2115286.jpeg?auto=compress&cs=tinysrgb&w=600',
+    url: 'https://s1.elespanol.com/2023/09/13/mujer/moda/794180917_236012590_1706x960.jpg?auto=compress&cs=tinysrgb&w=600',
     alt: 'Alta costura e elegância',
     category: 'Luxo'
   },
