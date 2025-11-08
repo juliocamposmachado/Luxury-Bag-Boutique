@@ -23,7 +23,7 @@ const fashionImages = [
     category: 'Contemporâneo'
   },
   {
-    url: 'https://images.pexels.com/photos/2291155/pexels-photo-2291155.jpeg?auto=compress&cs=tinysrgb&w=600',
+    url: 'https://claudia.abril.com.br/wp-content/uploads/2021/09/Destaque-Anna.jpg?quality=85&strip=info?auto=compress&cs=tinysrgb&w=600',
     alt: 'Tendência fashion',
     category: 'Tendência'
   },
