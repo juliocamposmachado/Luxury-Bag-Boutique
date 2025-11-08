@@ -3,7 +3,7 @@ import { useState } from 'react';
 
 const fashionImages = [
   {
-    url: 'https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=600',
+    url: 'https://www.rocknromancevintage.com/cdn/shop/files/IMG_0631_1024x1024.jpg?v=1695291775?auto=compress&cs=tinysrgb&w=600',
     alt: 'Figurino vintage clássico',
     category: 'Clássico'
   },
